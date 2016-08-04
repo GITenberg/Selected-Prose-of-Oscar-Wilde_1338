@@ -1,0 +1,56 @@
+_repo: Selected-Prose-of-Oscar-Wilde_1338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+  editor:
+    agent_name: Ross, Robert Baldwin
+    alias: Ross, Robbie
+    birthdate: 1869
+    deathdate: 1918
+    gutenberg_agent_id: '5421'
+    url: http://www.gutenberg.org/2009/agents/5421
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baldwin_Ross
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Preface by Robert Ross -- How they struck a contemporary -- The quality
+  of George Meredith -- Life in the fallacious model -- Life the disciple -- Life
+  the plagiarist -- The indispensable east -- The influence of the impressionists
+  on climate -- An exposure to naturalism -- Thomas Griffiths Wainewright -- Wainewright
+  at Hobart Town -- Cardinal Newman and the autobiographers -- Robert Browning --
+  The two supreme and highest arts -- The secrets of immortality -- The critic and
+  his material -- Dante the living guide -- The limitations of genius -- Wanted a
+  new background -- Without frontiers -- The poetry of archæology -- The art of archæology
+  -- Herod suppliant -- The tetrarch's remorse -- The tetrarch's treasure -- Salomé
+  anticipates Dr. Strauss -- The young king -- A coronation -- The king of Spain --
+  A bull fight -- The throne room -- A protected country -- The blackmailing of the
+  emperor -- Covent garden -- A letter from Miss Jane Percy to her aunt -- The triumph
+  of American 'humor' -- The garden of death -- An Eton kit-cat -- Mrs. Erlynne exercises
+  the prerogative of a grandmother -- Motherhood more than marriage -- The damnable
+  ideal -- From a rejected prize-essay -- The possibilities of the useful -- The artist
+  -- The doer of good -- The disciple -- The master -- The house of judgment -- The
+  teacher of wisdom -- Wilde gives directions about 'De profundis' -- Carey street
+  -- Sorrow wears no mask -- Vita nuova -- The grand romantic -- Clapham Junction
+  -- The broken resolution -- Domesticity at Berneval -- A visit to the Pope.
+title: Selected Prose of Oscar Wilde
+url: http://www.gutenberg.org/ebooks/1338
